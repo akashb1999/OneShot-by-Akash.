@@ -1,6 +1,6 @@
 # OneShot by Akash Bhattacharyya.
 
-A App Building Website that shows various apps-catalogs, reviews, and screen-shots,  using HTML, CSS, and JavaScript.
+An app-building website that shows various app catalogs, reviews, and screenshots,  using HTML, CSS, and JavaScript.
 
 
 ## 🔧 Technologies Used
@@ -27,4 +27,4 @@ A App Building Website that shows various apps-catalogs, reviews, and screen-sho
 
 1. Clone the repository  
    ```bash
-    
+    https://akashb1999.github.io/OneShot-by-Akash./
